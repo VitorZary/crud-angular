@@ -1,0 +1,23 @@
+.mat-mdc-card{
+  max-width: 80%;
+  margin: 2em auto;
+  text-align: center;
+}
+
+.mat-mdc-card-actions{
+  display: flex;
+  justify-content: center;
+}
+
+.btnSalvar{
+  margin-right: 7px;
+}
+
+.full-width{
+  width: 100%;
+}
+
+.min-width {
+  width: 100%;
+  min-width: 150px;
+}
